@@ -1,8 +1,14 @@
+h1 {
+  margin: auto;
+}
+
 #gameboard {
   width: 320px;
   height: 320px;
   display: flex;
   flex-wrap: wrap;
+  margin: auto;
+  padding: auto;
 }
 
 .square {
